@@ -1,0 +1,16 @@
+{
+  "name": "target-test",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "test-1.js",
+  "scripts": {
+    "test1": "node test-1.js",
+    "test2": "node test-2.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
